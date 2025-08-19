@@ -34,7 +34,7 @@ Wharton Business Analytics • Excel • SQL • Power BI
   ➜ [View project repo](https://github.com/virinphimonruj/GYF-AdBlocking-Strategy)  
 
 - **Sales & Operations Efficiency (Coming Soon)** — sales trends, customer value, and delivery performance; dashboard + SQL analysis.  
-  ➜ Repo will be added here
+  ➜ 
 
 ---
 
